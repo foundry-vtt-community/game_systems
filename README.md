@@ -1,6 +1,6 @@
-# Foundry VTT Game Systems
+# Foundry VTT Game Systems Repository
 
-**Description**: Foundry game systems are noted here.
+Foundry game systems are noted here.
 
 To clone this repository, along with every module in it, use the following command:
 
