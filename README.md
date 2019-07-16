@@ -24,5 +24,5 @@ Foundry systems that allow people to expand upon the default Foundry offerings f
 Systems designed for Warhammer Fantasy Systems
 
 ## [WFRP 4E System](Warhammer%20Fantasy/WFRP-4th-Edition-FoundryVTT.md)
-
+Installing this system allows you to create campaigns in the grim and perilous world of Warhammer Fantasy 4th edition! Additionally, it comes with a starter world which provides many items already organized for your use.
 
