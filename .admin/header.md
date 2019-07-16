@@ -1,6 +1,6 @@
 # Foundry VTT Game Systems Repository
 
-Foundry game systems are noted here.
+Foundry systems that allow people to expand upon the default Foundry offerings for tabletop game systems like Warhammer Fantasy or Starfinder are noted here.
 
 To clone this repository, along with every module in it, use the following command:
 

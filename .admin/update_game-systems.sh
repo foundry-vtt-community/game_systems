@@ -41,7 +41,7 @@ for section in csplit-sections-* ; do
 		for module in csplit-modules-* ; do
 			name=$(head -n 1 $module | cut -d' ' -f 2- | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')
 			if [[ "$name" == "$section_name" ]] ; then
-				cat $module >> game_systems.md
+				cat $module >> game_system.md
 				continue
 			fi
 			if [[ "$name" == "(Game System Name)" ]] ; then continue; fi
