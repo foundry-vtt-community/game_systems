@@ -17,12 +17,3 @@ git submodule init
 git submodule update name-of-the-game-system
 ```
 
-
-Foundry systems that allow people to expand upon the default Foundry offerings for tabletop game systems like Warhammer Fantasy or Starfinder.
-
-# Warhammer Fantasy
-Systems designed for Warhammer Fantasy Systems
-
-## [WFRP 4E System](Warhammer%20Fantasy/WFRP-4th-Edition-FoundryVTT.md)
-
-
