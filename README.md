@@ -18,6 +18,9 @@ git submodule update name-of-the-game-system
 ```
 
 
+<!--ts-->
+<!--te-->
+
 # Warhammer Fantasy
 
 Foundry systems for the various Warhammer Fantasy Roleplay editions.
