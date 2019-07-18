@@ -2,9 +2,6 @@ script:
 - |
   git config user.name "Wiki Sync"
   git config user.email "fvtt-travisci@mail.com"
-  git fetch origin
-  git fetch upstream
-  git merge upstream/master --no-edit
   cd ..
   git clone https://github.com/foundry-vtt-community/wiki.wiki.git
   cd game_systems
