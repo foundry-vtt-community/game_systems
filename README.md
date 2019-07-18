@@ -20,7 +20,7 @@ git submodule update name-of-the-game-system
 
 # Warhammer Fantasy
 
-Foundry systems for the various Warhammer Fantasy Roleplay editions. **TEST TEXT FOR TRAVIS**
+Foundry systems for the various Warhammer Fantasy Roleplay editions.
 
 
 ## [WFRP 4E System](Warhammer%20Fantasy/WFRP-4th-Edition-FoundryVTT.md)
