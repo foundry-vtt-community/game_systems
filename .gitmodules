@@ -1,3 +1,6 @@
 [submodule "Warhammer Fantasy/WFRP-4th-Edition-FoundryVTT"]
 	path = Warhammer Fantasy/WFRP-4th-Edition-FoundryVTT
 	url = https://github.com/CatoThe1stElder/WFRP-4th-Edition-FoundryVTT
+[submodule "Pathfinder/foundry-vtt---pathfinder-2e"]
+	path = Pathfinder/foundry-vtt---pathfinder-2e
+	url = https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/

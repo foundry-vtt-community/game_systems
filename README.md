@@ -20,6 +20,8 @@ git submodule update name-of-the-game-system
 
 <!--tl=2-->
 <!--ts-->
+   * [Pathfinder](#pathfinder)
+      * [Pathfinder 2e](#pathfinder-2e)
    * [Warhammer Fantasy](#warhammer-fantasy)
       * [WFRP 4E System](#wfrp-4e-system)
    * [Appendix](#appendix)
@@ -27,10 +29,16 @@ git submodule update name-of-the-game-system
       * [Appendix B: Best Editing Practices](#appendix-b-best-editing-practices)
 <!--te-->
 
+# Pathfinder
+
+Foundry systems for the various Pathfinder editions.
+
+## [Pathfinder 2e](Pathfinder/foundry-vtt---pathfinder-2e.md)
+This system adds support for Pathfinder Second Edition to Foundry VTT.
+
 # Warhammer Fantasy
 
 Foundry systems for the various Warhammer Fantasy Roleplay editions.
-
 
 ## [WFRP 4E System](Warhammer%20Fantasy/WFRP-4th-Edition-FoundryVTT.md)
 Installing this system allows you to create campaigns in the grim and perilous world of Warhammer Fantasy 4th edition! Additionally, it comes with a starter world which provides many items already organized for your use.
