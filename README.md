@@ -20,6 +20,8 @@ git submodule update name-of-the-game-system
 
 <!--tl=2-->
 <!--ts-->
+   * [Dungeons &amp; Dragons](#dungeons--dragons)
+      * [D&amp;D5e](#dd5e)
    * [Pathfinder](#pathfinder)
       * [Pathfinder 2e](#pathfinder-2e)
    * [Warhammer Fantasy](#warhammer-fantasy)
@@ -28,6 +30,11 @@ git submodule update name-of-the-game-system
       * [Appendix A: Adding a Game System](#appendix-a-adding-a-game-system)
       * [Appendix B: Best Editing Practices](#appendix-b-best-editing-practices)
 <!--te-->
+
+# Dungeons & Dragons
+
+## [D&D5e](Dungeons%20%26%20Dragons/.md)
+An implementation of the Dungeons & Dragons 5th Edition ruleset under the OGL. This system currently comes bundled with Foundry VTT, but in the future may be distributed separately. Please feel free to post issues or pull requests to the GitLab repo for my consideration.
 
 # Pathfinder
 
