@@ -1,7 +1,7 @@
 ## WFRP 4E System
 
 * **Author**: @Moo Man#7518 and @CatoThe1stElder#9725 on Discord
-* **Version**: Beta 0.8
+* **Version**: Beta 0.8.1
 * **Foundry VTT Compatibility**: 0.3+ (Highly recommend players use Chrome, Firefox doesn't display the sheet correctly).
 
 ### Link(s) to Module
