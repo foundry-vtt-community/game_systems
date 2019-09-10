@@ -13,3 +13,5 @@ Installing this system allows you to create campaigns in the grim and perilous w
 To install, place the wfrp4e download in your `public/systems` folder.  
 (Optional, highly recommended) Place `wfrp4e-starter-world` in `public/worlds`.
 
+---
+

@@ -24,3 +24,5 @@ To install the system, follow these instructions:
 1. Extract the included folder to public/systems in your Foundry Virtual Tabletop installation folder.
 1. Restart Foundry Virtual Tabletop.
 
+---
+
