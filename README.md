@@ -48,5 +48,5 @@ This system adds support for Pathfinder Second Edition to Foundry VTT.
 Foundry systems for the various Warhammer Fantasy Roleplay editions.
 
 ## [WFRP 4E System](Warhammer%20Fantasy/WFRP-4th-Edition-FoundryVTT.md)
-Installing this system allows you to create campaigns in the grim and perilous world of Warhammer Fantasy 4th edition! Additionally, it comes with a starter world which provides many items already organized for your use.
+Installing this system allows you to create campaigns in the grim and perilous world of Warhammer Fantasy 4th edition!
 
