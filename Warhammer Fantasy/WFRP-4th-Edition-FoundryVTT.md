@@ -3,6 +3,7 @@
 * **Author**: @Moo Man#7518 and @CatoThe1stElder#9725 on Discord
 * **Version**: Beta 0.8.2
 * **Foundry VTT Compatibility**: 0.3+ (Highly recommend players use Chrome, Firefox doesn't display the sheet correctly).
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://github.com/CatoThe1stElder/WFRP-4th-Edition-FoundryVTT](https://github.com/CatoThe1stElder/WFRP-4th-Edition-FoundryVTT/tree/stable) 

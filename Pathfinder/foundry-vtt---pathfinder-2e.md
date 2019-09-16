@@ -3,6 +3,7 @@
 * **Author**: hooking#0492 on Discord
 * **Version**: Alpha 0.21
 * **Foundry VTT Compatibility**: 0.3+
+* **Translation Support**: EN (full)
 
 ### Link(s) to Module
 * [https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/](https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/)
