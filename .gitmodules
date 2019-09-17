@@ -4,3 +4,6 @@
 [submodule "Pathfinder/foundry-vtt---pathfinder-2e"]
 	path = Pathfinder/foundry-vtt---pathfinder-2e
 	url = https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/
+[submodule "Dungeons & Dragons/dnd5e"]
+	path = Dungeons & Dragons/dnd5e
+	url = https://gitlab.com/foundrynet/dnd5e
