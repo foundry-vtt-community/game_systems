@@ -7,6 +7,7 @@
 
 ### Link(s) to Module
 * [https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/](https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/)
+* [https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/raw/master/system.json](https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/raw/master/system.json)
 
 ### Description
 This system adds support for Pathfinder Second Edition to Foundry VTT.
