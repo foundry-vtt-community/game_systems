@@ -28,6 +28,8 @@ git submodule update name-of-the-game-system
       * [Pathfinder 2e](#pathfinder-2e)
    * [Warhammer Fantasy](#warhammer-fantasy)
       * [WFRP 4E System](#wfrp-4e-system)
+   * [13th Age](#13th-age)
+      * [13th Age System](#13th-age-system-archmage)
    * [Appendix](#appendix)
       * [Appendix A: Adding a Game System](#appendix-a-adding-a-game-system)
       * [Appendix B: Best Editing Practices](#appendix-b-best-editing-practices)
@@ -51,4 +53,11 @@ Foundry systems for the various Warhammer Fantasy Roleplay editions.
 
 ## [WFRP 4E System](Warhammer%20Fantasy/WFRP-4th-Edition-FoundryVTT.md)
 Installing this system allows you to create campaigns in the grim and perilous world of Warhammer Fantasy 4th edition!
+
+# 13th Age
+
+Foundry systems for the 13th Age RPG.
+
+## [13th Age System (Archmage)](13th%20Age/.md)
+This system adds support for the 13th Age RPG in your Foundry VTT campaigns! To get the most out of it, you can also install the [Dice Calculator](https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator) module to add the ability to include inline dice rolls in power cards.
 
