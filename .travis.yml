@@ -7,6 +7,7 @@ script:
   cd game_systems
   mv .admin/header.md .&& mv .admin/update_game-systems.sh .
   chmod a+x update_game-systems.sh
+  git submodule sync && git submodule update
   ./update_game-systems.sh && git add README.md
   if [[ "$(git diff --cached)" != "" ]] ; then
       git commit -m "Update README.md Game Systems listing (Automatic)"
