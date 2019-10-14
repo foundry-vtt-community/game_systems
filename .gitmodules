@@ -7,3 +7,12 @@
 [submodule "Dungeons & Dragons/dnd5e"]
 	path = Dungeons & Dragons/dnd5e
 	url = https://gitlab.com/foundrynet/dnd5e
+[submodule "https:/gitlab.com/foundrynet/dnd5e/raw/master/system.json"]
+	path = https:/gitlab.com/foundrynet/dnd5e/raw/master/system.json
+	url = https://gitlab.com/foundrynet/dnd5e
+[submodule "https:/gitlab.com/hooking/foundry-vtt---pathfinder-2e/raw/master/system.json"]
+	path = https:/gitlab.com/hooking/foundry-vtt---pathfinder-2e/raw/master/system.json
+	url = https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/
+[submodule "https:/gitlab.com/asacolips-projects/foundry-mods/archmage/raw/master/system.json"]
+	path = https:/gitlab.com/asacolips-projects/foundry-mods/archmage/raw/master/system.json
+	url = https://gitlab.com/asacolips-projects/foundry-mods/archmage

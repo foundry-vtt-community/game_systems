@@ -37,14 +37,14 @@ git submodule update name-of-the-game-system
 
 # Dungeons & Dragons
 
-## [D&D5e](Dungeons%20%26%20Dragons/dnd5e.md)
+## [D&D5e](Dungeons%20%26%20Dragons/system.json.md)
 An implementation of the Dungeons & Dragons 5th Edition ruleset under the OGL. This system currently comes bundled with Foundry VTT, but in the future may be distributed separately. Please feel free to post issues or pull requests to the GitLab repo for my consideration.
 
 # Pathfinder
 
 Foundry systems for the various Pathfinder editions.
 
-## [Pathfinder 2e](Pathfinder/foundry-vtt---pathfinder-2e.md)
+## [Pathfinder 2e](Pathfinder/system.json.md)
 This system adds support for Pathfinder Second Edition to Foundry VTT.
 
 # Warhammer Fantasy
@@ -58,6 +58,6 @@ Installing this system allows you to create campaigns in the grim and perilous w
 
 Foundry systems for the 13th Age RPG.
 
-## [13th Age System (Archmage)](13th%20Age/.md)
+## [13th Age System (Archmage)](13th%20Age/system.json%60.md)
 This system adds support for the 13th Age RPG in your Foundry VTT campaigns! To get the most out of it, you can also install the [Dice Calculator](https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator) module to add the ability to include inline dice rolls in power cards.
 
