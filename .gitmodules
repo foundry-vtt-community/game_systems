@@ -16,3 +16,6 @@
 [submodule "https:/gitlab.com/asacolips-projects/foundry-mods/archmage/raw/master/system.json"]
 	path = https:/gitlab.com/asacolips-projects/foundry-mods/archmage/raw/master/system.json
 	url = https://gitlab.com/asacolips-projects/foundry-mods/archmage
+[submodule "13th Age/archmage"]
+	path = 13th Age/archmage
+	url = https://gitlab.com/asacolips-projects/foundry-mods/archmage
