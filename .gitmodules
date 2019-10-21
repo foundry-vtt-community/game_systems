@@ -1,1 +1,13 @@
 
+[submodule "Dungeons & Dragons/dnd5e"]
+	path = Dungeons & Dragons/dnd5e
+	url = https://gitlab.com/foundrynet/dnd5e
+[submodule "Pathfinder/foundry-vtt---pathfinder-2e"]
+	path = Pathfinder/foundry-vtt---pathfinder-2e
+	url = https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/
+[submodule "Warhammer Fantasy/WFRP-4th-Edition-FoundryVTT"]
+	path = Warhammer Fantasy/WFRP-4th-Edition-FoundryVTT
+	url = https://github.com/CatoThe1stElder/WFRP-4th-Edition-FoundryVTT
+[submodule "13th Age/archmage"]
+	path = 13th Age/archmage
+	url = https://gitlab.com/asacolips-projects/foundry-mods/archmage
