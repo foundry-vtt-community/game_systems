@@ -45,7 +45,7 @@ for section in csplit-sections-* ; do
 				continue
 			fi
 			if [[ "$name" == "(Game System Name)" ]] ; then continue; fi
-			url=$(grep 'https://git' $module | cut -d[ -f 2 | cut -d] -f 1)
+			url=$(grep 'https://git' $module | grep -v 'module.json' | head -n 1 | cut -d[ -f 2 | cut -d] -f 1)
 			# Get first line of the description
 			description=$(cat $module | grep -A 1 '### Description' | tail -n 1)
 			echo "Found module : $name"
