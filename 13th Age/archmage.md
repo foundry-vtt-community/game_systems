@@ -14,3 +14,5 @@ This system adds support for the 13th Age RPG in your Foundry VTT campaigns! To 
 
 To install, use the in-app installer and enter into the manifest URL: `https://gitlab.com/asacolips-projects/foundry-mods/archmage/raw/master/system.json`
 
+---
+

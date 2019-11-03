@@ -30,6 +30,8 @@ git submodule update name-of-the-game-system
       * [WFRP 4E System](#wfrp-4e-system)
    * [13th Age](#13th-age)
       * [13th Age System (Archmage)](#13th-age-system-archmage)
+   * [FATE](#fate)
+      * [FATE Core & Accelerated](#fate-core--accelerated)
    * [Appendix](#appendix)
       * [Appendix A: Adding a Game System](#appendix-a-adding-a-game-system)
       * [Appendix B: Best Editing Practices](#appendix-b-best-editing-practices)
@@ -60,4 +62,11 @@ Foundry systems for the 13th Age RPG.
 
 ## [13th Age System (Archmage)](13th%20Age/archmage.md)
 This system adds support for the 13th Age RPG in your Foundry VTT campaigns! To get the most out of it, you can also install the [Dice Calculator](https://gitlab.com/asacolips-projects/foundry-mods/foundry-vtt-dice-calculator) module to add the ability to include inline dice rolls in power cards.
+
+# FATE
+
+Foundry systems based on the FATE Core and Accelerated systems by Evil Hat Productions.
+
+## [FATE Core & Accelerated](FATE/fate.md)
+This system adds support for FATE Core and FATE Accelerated (FAE) to Foundry VTT. Currently in Alpha stage, only FAE character sheets and Stunts are available.
 

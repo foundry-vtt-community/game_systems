@@ -11,3 +11,6 @@
 [submodule "13th Age/archmage"]
 	path = 13th Age/archmage
 	url = https://gitlab.com/asacolips-projects/foundry-mods/archmage
+[submodule "FATE/fate"]
+	path = FATE/fate
+	url = https://gitlab.com/foundry-projects/fate
