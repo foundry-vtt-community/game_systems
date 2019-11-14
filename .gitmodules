@@ -14,3 +14,6 @@
 [submodule "FATE/fate"]
 	path = FATE/fate
 	url = https://gitlab.com/foundry-projects/fate
+[submodule "Other/worldbuilding"]
+	path = Other/worldbuilding
+	url = https://gitlab.com/foundrynet/worldbuilding

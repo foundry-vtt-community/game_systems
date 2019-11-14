@@ -12,3 +12,5 @@
 ### Description
 This system adds support for FATE Core and FATE Accelerated (FAE) to Foundry VTT. Currently in Alpha stage, only FAE character sheets and Stunts are available.
 
+---
+
