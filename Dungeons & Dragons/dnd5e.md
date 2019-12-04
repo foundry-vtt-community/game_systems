@@ -1,8 +1,8 @@
 ## D&D5e
 
 * **Author**: Atropos (Foundry VTT Core Developer)
-* **Version**: 0.61
-* **Foundry VTT Compatibility**: 0.3.0+
+* **Version**: 0.7.2
+* **Foundry VTT Compatibility**: 0.4.0+
 * **Translation Support**: EN (full)
 
 ### Link(s) to Game System
