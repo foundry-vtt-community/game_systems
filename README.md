@@ -32,6 +32,8 @@ git submodule update name-of-the-game-system
       * [13th Age System (Archmage)](#13th-age-system-archmage)
    * [FATE](#fate)
       * [FATE Core &amp; Accelerated](#fate-core--accelerated)
+   * [Starfinder](#starfinder)
+      * [Starfinder](#starfinder)
    * [Other](#other)
       * [Simple Worldbuilding System](#simple-worldbuilding-system)
    * [Appendix](#appendix)
@@ -71,6 +73,11 @@ Foundry systems based on the FATE Core and Accelerated systems by Evil Hat Produ
 
 ## [FATE Core & Accelerated](FATE/fate.md)
 This system adds support for FATE Core and FATE Accelerated (FAE) to Foundry VTT. Currently in Alpha stage, only FAE character sheets and Stunts are available.
+
+# Starfinder
+
+## [starfinder](Starfinder/foundryvtt-starfinder.md)
+This system brings support for the Starfinder RPG to Foundry VTT. The system provides sheets for player characters, NPC's, starships, and vehicles. There isn't any compendium content provided currently. That should come in a future update.
 
 # Other
 

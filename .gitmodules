@@ -17,3 +17,6 @@
 [submodule "Other/worldbuilding"]
 	path = Other/worldbuilding
 	url = https://gitlab.com/foundrynet/worldbuilding
+[submodule "Starfinder/foundryvtt-starfinder"]
+	path = Starfinder/foundryvtt-starfinder
+	url = https://github.com/wildj79/foundryvtt-starfinder
