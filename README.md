@@ -33,7 +33,7 @@ git submodule update name-of-the-game-system
    * [FATE](#fate)
       * [FATE Core &amp; Accelerated](#fate-core--accelerated)
    * [Starfinder](#starfinder)
-      * [Starfinder](#starfinder)
+      * [starfinder](#starfinder-1)
    * [Other](#other)
       * [Simple Worldbuilding System](#simple-worldbuilding-system)
    * [Appendix](#appendix)
