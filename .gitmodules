@@ -20,3 +20,6 @@
 [submodule "Starfinder/foundryvtt-starfinder"]
 	path = Starfinder/foundryvtt-starfinder
 	url = https://github.com/wildj79/foundryvtt-starfinder
+[submodule "Shadowrun/SR5-FoundryVTT"]
+	path = Shadowrun/SR5-FoundryVTT
+	url = https://github.com/smilligan93/SR5-FoundryVTT

@@ -34,6 +34,8 @@ git submodule update name-of-the-game-system
       * [FATE Core &amp; Accelerated](#fate-core--accelerated)
    * [Starfinder](#starfinder)
       * [starfinder](#starfinder-1)
+   * [Shadowrun](#shadowrun)
+      * [Shadowrun 5th Edition](#shadowrun-5th-edition)
    * [Other](#other)
       * [Simple Worldbuilding System](#simple-worldbuilding-system)
    * [Appendix](#appendix)
@@ -78,6 +80,11 @@ This system adds support for FATE Core and FATE Accelerated (FAE) to Foundry VTT
 
 ## [starfinder](Starfinder/foundryvtt-starfinder.md)
 This system brings support for the Starfinder RPG to Foundry VTT. The system provides sheets for player characters, NPC's, starships, and vehicles. There isn't any compendium content provided currently. That should come in a future update.
+
+# Shadowrun
+
+## [Shadowrun 5th Edition](Shadowrun/SR5-FoundryVTT.md)
+This system adds support for Shadowrun 5th Edition.
 
 # Other
 
