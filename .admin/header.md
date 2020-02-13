@@ -1,6 +1,6 @@
 # Foundry VTT Game Systems Repository
 
-[![Build Status](https://travis-ci.org/foundry-vtt-community/game_systems.svg?branch=master)](https://travis-ci.org/foundry-vtt-community/game_systems)
+![CI for Game Systems Repo](https://github.com/foundry-vtt-community/game_systems/workflows/CI%20for%20Game%20Systems%20Repo/badge.svg)
 
 Foundry systems that allow people to expand upon the default Foundry offerings for tabletop game systems like Warhammer Fantasy or Starfinder are noted here.
 
