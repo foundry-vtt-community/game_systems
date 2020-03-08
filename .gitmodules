@@ -26,3 +26,6 @@
 [submodule "Fate/fate"]
 	path = Fate/fate
 	url = https://gitlab.com/foundry-projects/fate
+[submodule "Pathfinder/foundryvtt-pathfinder1"]
+	path = Pathfinder/foundryvtt-pathfinder1
+	url = https://gitlab.com/Furyspark/foundryvtt-pathfinder1

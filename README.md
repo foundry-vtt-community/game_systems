@@ -25,6 +25,7 @@ git submodule update name-of-the-game-system
    * [Dungeons &amp; Dragons](#dungeons--dragons)
       * [D&amp;D5e](#dd5e)
    * [Pathfinder](#pathfinder)
+      * [Pathfinder 1e](#pathfinder-1e)
       * [Pathfinder 2e](#pathfinder-2e)
    * [Warhammer Fantasy](#warhammer-fantasy)
       * [WFRP 4E System](#wfrp-4e-system)
@@ -51,6 +52,9 @@ An implementation of the Dungeons & Dragons 5th Edition ruleset under the OGL. T
 # Pathfinder
 
 Foundry systems for the various Pathfinder editions.
+
+## [Pathfinder 1e](Pathfinder/foundryvtt-pathfinder1.md)
+A system for the first edition of Pathfinder in FoundryVTT.
 
 ## [Pathfinder 2e](Pathfinder/foundry-vtt---pathfinder-2e.md)
 This system adds support for Pathfinder Second Edition to Foundry VTT.
