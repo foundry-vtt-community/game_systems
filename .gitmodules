@@ -29,3 +29,6 @@
 [submodule "Pathfinder/foundryvtt-pathfinder1"]
 	path = Pathfinder/foundryvtt-pathfinder1
 	url = https://gitlab.com/Furyspark/foundryvtt-pathfinder1
+[submodule "Savage Worlds/swade"]
+	path = Savage Worlds/swade
+	url = https://gitlab.com/florad-foundry/swade

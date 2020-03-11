@@ -37,6 +37,8 @@ git submodule update name-of-the-game-system
       * [starfinder](#starfinder-1)
    * [Shadowrun](#shadowrun)
       * [Shadowrun 5th Edition](#shadowrun-5th-edition)
+   * [Savage Worlds](#savage-worlds)
+      * [Savage Worlds Adventure Edition](#savage-worlds-adventure-edition)
    * [Other](#other)
       * [Simple Worldbuilding System](#simple-worldbuilding-system)
    * [Appendix](#appendix)
@@ -89,6 +91,11 @@ This system brings support for the Starfinder RPG to Foundry VTT. The system pro
 
 ## [Shadowrun 5th Edition](Shadowrun/SR5-FoundryVTT.md)
 This system adds support for Shadowrun 5th Edition.
+
+# Savage Worlds
+
+## [Savage Worlds Adventure Edition](Savage%20Worlds/swade.md)
+
 
 # Other
 
