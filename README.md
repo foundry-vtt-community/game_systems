@@ -20,15 +20,12 @@ git submodule update name-of-the-game-system
 ```
 
 
-<!--tl=2-->	
-<!--ts-->
-
-Get Game Systems for Foundry VTT on the official site:
-[https://foundryvtt.com/packages/](https://foundryvtt.com/packages/)
+Get Game Systems for Foundry VTT on the official site: [https://foundryvtt.com/packages/](https://foundryvtt.com/packages/)
 
 The list below is an unofficial list of game systems.
 
-
+<!--tl=2-->	
+<!--ts-->
    * [Dungeons &amp; Dragons](#dungeons--dragons)	
       * [D&amp;D5e](#dd5e)	
    * [Pathfinder](#pathfinder)	
