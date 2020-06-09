@@ -43,6 +43,8 @@ The list below is an unofficial list of game systems.
       * [Shadowrun 5th Edition](#shadowrun-5th-edition)	
    * [Savage Worlds](#savage-worlds)	
       * [Savage Worlds Adventure Edition](#savage-worlds-adventure-edition)	
+   * [Adventure Game Engine (AGE)](#adventure-game-engine-age)
+      * [Blue Rose](#blue-rose)
    * [Other](#other)	
       * [Simple Worldbuilding System](#simple-worldbuilding-system)	
    * [Appendix](#appendix)	
@@ -100,6 +102,11 @@ This system adds support for Shadowrun 5th Edition.
 
 ## [Savage Worlds Adventure Edition](Savage%20Worlds/swade.md)
 
+
+# Adventure Game Engine (AGE)
+
+## [Blue Rose](Adventure%20Game%20Engine%20%28AGE%29/blue-rose.md)
+An implementation of the Blue Rose AGE ruleset. Only sheets are provided until an agreement can be made with Green Ronin Publishing.
 
 # Other	
 

@@ -32,3 +32,6 @@
 [submodule "Savage Worlds/swade"]
 	path = Savage Worlds/swade
 	url = https://gitlab.com/florad-foundry/swade
+[submodule "Adventure Game Engine (AGE)/blue-rose"]
+	path = Adventure Game Engine (AGE)/blue-rose
+	url = https://gitlab.com/studio315b/blue-rose
