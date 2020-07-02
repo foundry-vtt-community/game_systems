@@ -35,3 +35,6 @@
 [submodule "Adventure Game Engine (AGE)/blue-rose"]
 	path = Adventure Game Engine (AGE)/blue-rose
 	url = https://gitlab.com/studio315b/blue-rose
+[submodule "Chaosium/svnsea2e"]
+	path = Chaosium/svnsea2e
+	url = https://github.com/Detailing-the-Realm/svnsea2e/

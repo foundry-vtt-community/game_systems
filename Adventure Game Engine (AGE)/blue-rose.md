@@ -14,5 +14,3 @@ An implementation of the Blue Rose AGE ruleset. Only sheets are provided until a
 
 ---	
 
-
-

@@ -45,6 +45,8 @@ The list below is an unofficial list of game systems.
       * [Savage Worlds Adventure Edition](#savage-worlds-adventure-edition)	
    * [Adventure Game Engine (AGE)](#adventure-game-engine-age)
       * [Blue Rose](#blue-rose)
+   * [Chaosium](#chaosium)
+      * [7th Sea 2nd Edition](#7th-sea-2nd-edition)
    * [Other](#other)	
       * [Simple Worldbuilding System](#simple-worldbuilding-system)	
    * [Appendix](#appendix)	
@@ -107,6 +109,11 @@ This system adds support for Shadowrun 5th Edition.
 
 ## [Blue Rose](Adventure%20Game%20Engine%20%28AGE%29/blue-rose.md)
 An implementation of the Blue Rose AGE ruleset. Only sheets are provided until an agreement can be made with Green Ronin Publishing.
+
+# Chaosium
+
+## [7th Sea 2nd Edition (Unofficial)](Chaosium/svnsea2e.md)
+[7th Sea](https://www.chaosium.com/7th-sea/) is a tabletop roleplaying game of swashbuckling and intrigue, exploration and adventure, taking place on the continent of Théah, a land of magic and mystery inspired by our own Europe.
 
 # Other	
 
