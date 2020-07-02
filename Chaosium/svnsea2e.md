@@ -14,5 +14,3 @@
 
 Players take on the roles of heroes thrown into global conspiracies and sinister plots, exploring ancient ruins of a race long vanished and protecting the rightful kings and queens of Théah from murderous villains. It is a world of sharp blades and sharp wits, where a cutting retort can be just as deadly as a sword’s point.
 
----	
-
