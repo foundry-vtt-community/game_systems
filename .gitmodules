@@ -38,3 +38,6 @@
 [submodule "Chaosium/svnsea2e"]
 	path = Chaosium/svnsea2e
 	url = https://github.com/Detailing-the-Realm/svnsea2e/
+[submodule "Runehammer Games/FoundryVTT-ICRPG"]
+	path = Runehammer Games/FoundryVTT-ICRPG
+	url = https://github.com/TomCosaert/FoundryVTT-ICRPG/

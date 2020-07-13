@@ -47,6 +47,8 @@ The list below is an unofficial list of game systems.
       * [Blue Rose](#blue-rose)
    * [Chaosium](#chaosium)
       * [7th Sea 2nd Edition](#7th-sea-2nd-edition)
+   * [Runehammer Games](#runehammer-games)
+      * [Index Card RPG](#index-card-rpg)
    * [Other](#other)	
       * [Simple Worldbuilding System](#simple-worldbuilding-system)	
    * [Appendix](#appendix)	
@@ -114,6 +116,11 @@ An implementation of the Blue Rose AGE ruleset. Only sheets are provided until a
 
 ## [7th Sea 2nd Edition (Unofficial)](Chaosium/svnsea2e.md)
 [7th Sea](https://www.chaosium.com/7th-sea/) is a tabletop roleplaying game of swashbuckling and intrigue, exploration and adventure, taking place on the continent of Théah, a land of magic and mystery inspired by our own Europe.
+
+# Runehammer Games
+
+## [Index Card RPG](Runehammer%20Games/FoundryVTT-ICRPG.md)
+[Index Card RPG](https://www.icrpg.com/) (ICRPG) by [Runehammer Games](https://www.runehammer.online/) takes classic tabletop mechanics for telling stories, making monsters and rolling dice, but throws out all the clunky parts that keep most folks from trying an adventure or two.
 
 # Other	
 
