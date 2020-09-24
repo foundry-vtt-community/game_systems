@@ -35,8 +35,10 @@ The list below is an unofficial list of game systems.
       * [WFRP 4E System](#wfrp-4e-system)	
    * [13th Age](#13th-age)	
       * [13th Age System (Archmage)](#13th-age-system-archmage)	
-   * [Fate](#fate)	
-      * [Fate Core &amp; Accelerated](#fate-core--accelerated)	
+   * [Fate](#fate)
+      * [Modular Fate Core](#Modular-Fate-Core)	
+      * [FateX](#fateX)	
+      * [Fate (Core/Accelerated/Condensed)](#fate-core--accelerated)	
    * [Starfinder](#starfinder)	
       * [starfinder](#starfinder-1)	
    * [Shadowrun](#shadowrun)	
@@ -88,9 +90,14 @@ This system adds support for the 13th Age RPG in your Foundry VTT campaigns! To 
 # Fate	
 
 Foundry systems based on the Fate Core and Accelerated systems by Evil Hat Productions, available under Creative Commons.	
+## [Modular Fate Core](Fate/modularFate.md)
+A new system for Fate Core which supports arbitrary skills/stress tracks/conditions/aspects and other modular characteristics that will allow GMs to build almost any implementation of the Fate Core system. Includes default settings for Fate Core, Fate Condensed, and Fate Accelerated.
+
+## [FateX](Fate/FateX.md)
+FateX is the extended Fate game system for FoundryVTT. This system allows you to play any Fate game you want. It provides default options for playing Fate Core, Fate Accelerated, and Fate Condensed, but can be used in all its derivative systems too.
 
 ## [Fate Core & Accelerated](Fate/fate.md)
-This system adds support for Fate Core and Fate Accelerated (FAE) to Foundry VTT. Currently still in development, and only the FAE character sheet is functional.
+**This package is outdated and while still functional for a time will no longer be updated further. Users should migrate to one of the two other actively-developed systems**
 
 # Starfinder	
 

@@ -41,3 +41,9 @@
 [submodule "Runehammer Games/FoundryVTT-ICRPG"]
 	path = Runehammer Games/FoundryVTT-ICRPG
 	url = https://github.com/TomCosaert/FoundryVTT-ICRPG/
+[submodule "Fate/modularFate"]
+	path = Fate/modularFate
+	url = https://github.com/Sk1mble/modularFate
+[submodule "Fate/FateX"]
+	path = Fate/FateX
+	url = https://github.com/anvil-vtt/FateX
