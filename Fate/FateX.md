@@ -1,5 +1,5 @@
 ## FateX	
-* **Author**: Richard Bellingham (Skimble)
+* **Author**: Patrick Bauer
 * **Version**: 1.0
 * **Translation Support**: EN (Full), DE, SP, FR
 ### Link(s) to Game System	
